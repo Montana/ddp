@@ -1,3 +1,5 @@
+![ddp](http://www.marycatherinestarr.com/uploads/6/8/0/6/680696/2736747.jpg?263)
+
 # DDP (Docker Django Prowl)
 
 At Prowl we use DDP, DDP is a simple Django production ready Docker container for Prowl. It contains nginx+gunicorn serving static content and running a WSGI server for the Django project in question, managed by supervisord.
