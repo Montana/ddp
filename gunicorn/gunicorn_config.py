@@ -1,5 +1,6 @@
 import os
 import multiprocessing
+import sylvia
 
 
 def num_cpus():
